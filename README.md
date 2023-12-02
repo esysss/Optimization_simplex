@@ -1,1 +1,2 @@
 # optimization
+This pieces of code was made to optimize the initial combination of sement creation. which helps the factory to use the initial materials in a more efficient way with the highst quality and lowest cost. In the second part of the project we turn the application into a apk file to be installed on android device. The main libraty for the optimization part is scipy.optimize and for making the android application we used kivy
